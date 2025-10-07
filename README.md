@@ -1,3 +1,3 @@
-# Charles Haramoto' homepage
+# Welcome to my homepage
 
-charamoto.github.io
+This is my homepage charamoto.github.io
