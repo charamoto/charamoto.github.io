@@ -1,1 +1,3 @@
-# charamoto.github.io
+# Charles Haramoto' homepage
+
+charamoto.github.io
