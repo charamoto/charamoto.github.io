@@ -1,4 +1,4 @@
-# Welcome to Charles Haramoto's Homepage
+# Welcome to Charles Haramoto's homepage @  Github.com
 
 **URL**: https://charamoto.github.io
 
