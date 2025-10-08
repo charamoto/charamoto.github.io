@@ -1,3 +1,4 @@
-# Welcome to my homepage
+# Welcome to Charles Haramoto's Homepage
 
-This is my homepage charamoto.github.io
+**URL**: https://charamoto.github.io
+
