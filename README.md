@@ -1,1 +1,3 @@
-Link to Github.io home page: [https://charamoto.github.io](https://charamoto.github.io "Link")
+# charamoto.github.io
+
+[charamoto.github.io](https://charamoto.github.io)
