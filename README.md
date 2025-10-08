@@ -1,3 +1,3 @@
-# charamoto.github.io
+# Charles Haramoto
 
 [charamoto.github.io](https://charamoto.github.io)
